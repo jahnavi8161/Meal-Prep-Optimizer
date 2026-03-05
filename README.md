@@ -6,11 +6,7 @@ A simple web application that helps users generate personalized meal plans based
 
 🚀 Live Demo
 
-(After deployment, add your Streamlit link here)
-
-Example:
-https://meal-prep-optimizer.streamlit.app
-
+https://meal-prep-optimizer.streamlit.app/
 ---
 
 ✨ Features
