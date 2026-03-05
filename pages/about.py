@@ -1,12 +1,16 @@
 import streamlit as st
 
-st.title("About This App")
+st.title("ℹ About This App")
 
 st.write("""
 Meal Prep Optimizer is a simple web application that helps users
-plan meals according to their dietary preferences and calorie goals.
+generate meal plans based on dietary preferences and calorie goals.
 
-Built using:
-- Python
-- Streamlit
+Built with:
+
+• Python  
+• Streamlit  
 """)
+
+if st.button("⬅ Back Home"):
+    st.switch_page("app.py")
